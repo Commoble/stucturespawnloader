@@ -1,0 +1,9 @@
+{
+  "structure": "minecraft:bastion_remnant",
+  "spawner": {
+    "type": "minecraft:evoker",
+    "weight": 1000,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

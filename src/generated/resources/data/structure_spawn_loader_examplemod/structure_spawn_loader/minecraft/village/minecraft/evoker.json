@@ -1,0 +1,9 @@
+{
+  "structure": "minecraft:village",
+  "spawner": {
+    "type": "minecraft:evoker",
+    "weight": 1000,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}
